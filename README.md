@@ -37,7 +37,7 @@
 
 查看 [send-tutorial.md](/docs/send-tutorial.md)
 
-## 🔨 本地运行调试
+## 🔨 本地运行调
 
 ```bash
 git clone https://github.com/oiov/vmail
